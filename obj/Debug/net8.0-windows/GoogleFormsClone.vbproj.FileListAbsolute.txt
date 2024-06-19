@@ -1,0 +1,9 @@
+C:\Users\praneeth meruva\source\repos\GoogleFormsClone\obj\Debug\net8.0-windows\GoogleFormsClone.CreateSubmissionForm.resources
+C:\Users\praneeth meruva\source\repos\GoogleFormsClone\obj\Debug\net8.0-windows\GoogleFormsClone.Form1.resources
+C:\Users\praneeth meruva\source\repos\GoogleFormsClone\obj\Debug\net8.0-windows\GoogleFormsClone.ViewSubmissionsForm.resources
+C:\Users\praneeth meruva\source\repos\GoogleFormsClone\obj\Debug\net8.0-windows\GoogleFormsClone.CreateSubmissionForm.aa-DJ.resources
+C:\Users\praneeth meruva\source\repos\GoogleFormsClone\obj\Debug\net8.0-windows\GoogleFormsClone.vbproj.GenerateResource.cache
+C:\Users\praneeth meruva\source\repos\GoogleFormsClone\obj\Debug\net8.0-windows\GoogleFormsClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praneeth meruva\source\repos\GoogleFormsClone\obj\Debug\net8.0-windows\GoogleFormsClone.AssemblyInfoInputs.cache
+C:\Users\praneeth meruva\source\repos\GoogleFormsClone\obj\Debug\net8.0-windows\GoogleFormsClone.AssemblyInfo.vb
+C:\Users\praneeth meruva\source\repos\GoogleFormsClone\obj\Debug\net8.0-windows\GoogleFormsClone.vbproj.CoreCompileInputs.cache
